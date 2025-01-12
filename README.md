@@ -2,7 +2,6 @@
 One of the largest directories for downloading Fortnite versions / builds (maybe even the fastest).
 
 # THIS IS UNDER WORKING! PLEASE NOTE THAT THERE ARE NOT ALL OF THE BUILDS HERE!
-
 ## This is provided free of charge by Shoqapique. If you want to help him, just let him know by click on the star!
 
 ##  Informations & more
@@ -52,6 +51,7 @@ If you want to add one build that is not here, let us know on [Discord](https://
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://galaxiafn.co.uk/8.50.zip|
+| 8.51-CL-N/A	        | 02-05-19       	 | UE4.23            	    |		https://galaxiafn.co.uk/8.51.zip|
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
