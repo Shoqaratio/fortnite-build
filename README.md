@@ -35,7 +35,7 @@ If you want to add one build that is not here, let us know on [Discord](https://
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| N/A	 	| N/A	   	 | N/A	    |	N/A |
+| 3.5-CL-4008490	 	| 11-04-18	   	 | UE4.20-4008490	    |	https://galaxiafn.co.uk/3.5.zip |
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
