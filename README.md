@@ -1,6 +1,6 @@
 # Fortnite Builds ⚔️
 
-One of the largest directories for downloading Fortnite versions/builds (perhaps even the fastest) 💨.
+One of the fastest directories for downloading Fortnite versions/builds (perhaps even the largest) 💨.
 
 ### ⚠️ **THIS IS UNDER DEVELOPMENT!** ⚠️  
 **Please note that not all builds are available here yet!**  
@@ -9,9 +9,9 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 ---
 
 ### 📝 **Information & Credits:**
-- Files and builds are provided by [notsamiccs](https://github.com/notsamicc/Fortnite-Builds) and [Crunnie](https://github.com/Crunnie).
+- Files and builds are provided by [notsamiccs](https://github.com/notsamicc/Fortnite-Builds), [Crunnie](https://github.com/Crunnie) and [n6617x's repo](https://github.com/n6617x/Fortnitebuilds).
 - Servers are provided by [Shoqapique](https://github.com/Shoqaratio).
-- If you want to add a build that is not here, let us know on [Discord](https://discord.gg/KsNdAmqYsy).
+- If you want to add a build that is not here, let us know on [Discord](https://discord.gg/KsNdAmqYsy)!
 
 ---
 
@@ -42,6 +42,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 #### **Season 3 ⚔️**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
+| 3.0-CL-3901517                | 21-02-18          | UE4.20-3901517        | [Download](https://galaxiafn.co.uk/3.0.zip) |
 | 3.5-CL-4008490                | 11-04-18          | UE4.20-4008490        | [Download](https://galaxiafn.co.uk/3.5.zip) |
 
 ---
@@ -63,6 +64,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 #### **Season 8 🔥**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
+| 8.00-CL-5203069               | 28-02-19          | UE4.22                | [Download](https://galaxiafn.co.uk/8.00.zip) |
 | 8.50-CL-6058028               | 25-04-19          | UE4.23                | [Download](https://galaxiafn.co.uk/8.50.zip) |
 | 8.51-CL-6165369               | 02-05-19          | UE4.23                | [Download](https://galaxiafn.co.uk/8.51.zip) |
 
@@ -72,6 +74,20 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 11.00-CL-9603448              | 15-10-19          | UE4.24                | [Download](https://galaxiafn.co.uk/11.00.zip) |
+
+---
+
+#### **Season 15 ✨**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 15.50-CL-15526472              | N/A          | N/A                | [Download](https://galaxiafn.co.uk/15.50.zip) |
+
+---
+
+#### **Season 16 ⚡**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 16.50-CL-16432754              | N/A          | N/A                | [Download](https://galaxiafn.co.uk/16.50.zip) |
 
 ---
 
