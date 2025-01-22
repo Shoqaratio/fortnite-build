@@ -80,14 +80,14 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 #### **Season 15 ✨**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 15.50-CL-15526472              | 02-03-2021          | UE4.26                | [Download](https://galaxiafn.co.uk/15.50.zip) |
+| 15.50-CL-15526472              | 02-03-21          | UE4.26                | [Download](https://galaxiafn.co.uk/15.50.zip) |
 
 ---
 
 #### **Season 16 ⚡**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 16.50-CL-16432754              | 03-06-2022          | UE4.26.1                | [Download](https://galaxiafn.co.uk/16.50.zip) |
+| 16.50-CL-16432754              | 03-06-22          | UE4.26.1                | [Download](https://galaxiafn.co.uk/16.50.zip) |
 
 ---
 
