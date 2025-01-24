@@ -20,44 +20,44 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 #### **Pre-BattleRoyale (Beta) 🛠️**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| OT6.5-CL-2870186              | 28-02-16          | UE4.12-2870186        | [Download](https://galaxiafn.co.uk/0.6.5.zip) |
+| OT6.5-CL-2870186              | 28-02-16          | UE4.12        | [Download](https://galaxiafn.co.uk/0.6.5.zip) |
 
 ---
 
 #### **Season 0 & 1 🕹️**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 1.7.2-CL-3700114              | 17-10-17          | UE4.16-3700114        | [Download](https://galaxiafn.co.uk/1.7.2.zip) |
+| 1.7.2-CL-3700114              | 17-10-17          | UE4.16        | [Download](https://galaxiafn.co.uk/1.7.2.zip) |
 
 ---
 
 #### **Season 2 🎮**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 1.11-CL-3807424               | 14-12-17          | UE4.19-3807424        | [Download](https://galaxiafn.co.uk/1.11.zip) |
-| 2.4.0-CL-3858292              | 01-02-18          | UE4.19-3858292        | [Download](https://galaxiafn.co.uk/2.4.0.zip) |
+| 1.11-CL-3807424               | 14-12-17          | UE4.19        | [Download](https://galaxiafn.co.uk/1.11.zip) |
+| 2.4.0-CL-3858292              | 01-02-18          | UE4.19        | [Download](https://galaxiafn.co.uk/2.4.0.zip) |
 
 ---
 
 #### **Season 3 ⚔️**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 3.0-CL-3901517                | 21-02-18          | UE4.20-3901517        | [Download](https://galaxiafn.co.uk/3.0.zip) |
-| 3.5-CL-4008490                | 11-04-18          | UE4.20-4008490        | [Download](https://galaxiafn.co.uk/3.5.zip) |
+| 3.0-CL-3901517                | 21-02-18          | UE4.20        | [Download](https://galaxiafn.co.uk/3.0.zip) |
+| 3.5-CL-4008490                | 11-04-18          | UE4.20        | [Download](https://galaxiafn.co.uk/3.5.zip) |
 
 ---
 
 #### **Season 4 🎉**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 4.2-CL-4072250                | 16-05-18          | UE4.20-4072250        | [Download](https://galaxiafn.co.uk/4.2.zip) |
+| 4.2-CL-4072250                | 16-05-18          | UE4.20        | [Download](https://galaxiafn.co.uk/4.2.zip) |
 
 ---
 
 #### **Season 7 🏆**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 7.30-CL-4834550               | 29-01-19          | UE4.22-4834550        | [Download](https://galaxiafn.co.uk/7.30.zip) |
+| 7.30-CL-4834550               | 29-01-19          | UE4.22        | [Download](https://galaxiafn.co.uk/7.30.zip) |
 
 ---
 
@@ -67,6 +67,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | 8.00-CL-5203069               | 28-02-19          | UE4.22                | [Download](https://galaxiafn.co.uk/8.00.zip) |
 | 8.50-CL-6058028               | 25-04-19          | UE4.23                | [Download](https://galaxiafn.co.uk/8.50.zip) |
 | 8.51-CL-6165369               | 02-05-19          | UE4.23                | [Download](https://galaxiafn.co.uk/8.51.zip) |
+
+---
+
+#### **Season 9 🪐**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 9.10-CL-6639283               | 19-05-19          | UE4.23                | [Download](https://galaxiafn.co.uk/9.10.zip) |
 
 ---
 
