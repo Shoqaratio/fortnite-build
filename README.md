@@ -54,6 +54,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 
 ---
 
+#### **Season 5 👽**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 5.41-CL-4363240                | 19-09-18          | UE4.21        | [Download](https://galaxiafn.co.uk/5.41.zip) |
+
+---
+
 #### **Season 7 🏆**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
