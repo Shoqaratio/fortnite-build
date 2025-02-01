@@ -2,7 +2,7 @@
 
 One of the fastest directories for downloading Fortnite versions/builds (perhaps even the largest) 💨.
 
-### 🚩 Operation scheduled on servers on 01-02, [click on this link](https://uptime.galaxiafn.co.uk/maintenance/505159) to find out more!
+### 🚩 Operation in progress, [click on this link](https://uptime.galaxiafn.co.uk/maintenance/505159) to find out more!
 
 ### ⚠️ **THIS IS UNDER DEVELOPMENT!** ⚠️  
 **Please note that not all builds are available here yet!**  
