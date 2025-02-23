@@ -89,6 +89,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 9.10-CL-6639283               | 19-05-19          | UE4.23                | [Download](https://galaxiafn.co.uk/9.10.zip) |
+| 9.41-CL-7609292               | N/A          | UE4.23                | [Download](https://galaxiafn.co.uk/9.41.zip) |
 
 ---
 
