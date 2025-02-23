@@ -72,6 +72,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 7.30-CL-4834550               | 29-01-19          | UE4.22        | [Download](https://galaxiafn.co.uk/7.30.zip) |
+| 7.40-CL-5046157               | N/A          | UE4.22        | [Download](https://galaxiafn.co.uk/7.40.zip) |
 
 ---
 
