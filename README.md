@@ -61,6 +61,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 
 ---
 
+#### **Season 6 👻**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 6.21-CL-4526925                | N/A          | UE4.21        | [Download](https://galaxiafn.co.uk/6.21.zip) |
+
+---
+
 #### **Season 7 🏆**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
