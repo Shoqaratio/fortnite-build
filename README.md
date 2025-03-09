@@ -2,7 +2,8 @@
 
 One of the fastest directories for downloading Fortnite versions/builds (perhaps even the largest) 💨.
 
-### ⚠️ **THIS IS UNDER DEVELOPMENT!** ⚠️  
+### ⚠️ **BUILDS ARE NOT AVAILABLE YET!** ⚠️  
+### PLEASE REFER TO [THIS REPO BY SIMPLYBLK](https://github.com/n6617x/Fortnitebuilds) OR [BY CARBONFN](https://github.com/CarbonFN/FortniteBuilds) !!
 **Please note that not all builds are available here yet!**  
 This service is provided free of charge by **Shoqapique**. If you want to support him, let him know by clicking the star ⭐️!
 
