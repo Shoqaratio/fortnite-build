@@ -1,9 +1,9 @@
 # Fortnite Builds ⚔️
 
-One of the fastest directories for downloading Fortnite versions/builds (perhaps even the largest) 💨.
+One of the fastest directories for downloading Fortnite versions/builds (we are trying to be the largest) 💨.
 
-### ⚠️ **BUILDS ARE NOT AVAILABLE YET!** ⚠️  
-### PLEASE REFER TO [THIS REPO BY SIMPLYBLK](https://github.com/n6617x/Fortnitebuilds) OR [BY CARBONFN](https://github.com/CarbonFN/FortniteBuilds) !!
+### ✔ **Servers are in normal state!** ✔  
+
 **Please note that not all builds are available here yet!**  
 This service is provided free of charge by **Shoqapique**. If you want to support him, let him know by clicking the star ⭐️!
 
@@ -99,6 +99,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 11.00-CL-9603448              | 15-10-19          | UE4.24                | [Download](https://galaxiafn.co.uk/11.00.zip) |
+
+---
+
+#### **Season 12 🌹**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 12.41-CL-12905909              | 21-04-20          | UE4.25                | [Download](https://galaxiafn.co.uk/12.41.zip) |
 
 ---
 
