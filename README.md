@@ -128,6 +128,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 
 ---
 
+#### **Season 18 🎡**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 18.40-CL-18163738              | 16-11-21          | UE4.26.1                | [Download](https://galaxiafn.co.uk/18.40.zip) |
+
+---
+
 #### **Season 19 ⚽ NEW**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
