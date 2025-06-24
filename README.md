@@ -2,7 +2,7 @@
 
 One of the fastest directories for downloading Fortnite versions/builds (we are trying to be the largest) 💨.
 
-### ⚠️ **Servers may be slow due to very high demand!** ⚠️
+### ✅ **Servers are in normal state!** ✅
 
 **Please note that not all builds are available here yet!**  
 This service is provided free of charge by **Shoqapique**. If you want to support him, let him know by clicking the star ⭐️!
@@ -44,7 +44,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 3.0-CL-3901517                | 21-02-18          | UE4.20        | [Download](https://galaxiafn.co.uk/3.0.zip) |
-| 3.5-CL-4008490                | 11-04-18          | UE4.20        | [Download](https://galaxiafn.co.uk/3.5.zip)  (Back to online) |
+| 3.5-CL-4008490                | 11-04-18          | UE4.20        | [Download](https://galaxiafn.co.uk/3.5.zip) |
 | 3.6-CL-4019403                | 24-04-18          | UE4.20        | [Download](https://galaxiafn.co.uk/3.6.zip) |
 
 ---
