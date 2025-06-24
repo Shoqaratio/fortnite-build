@@ -2,7 +2,7 @@
 
 One of the fastest directories for downloading Fortnite versions/builds (we are trying to be the largest) 💨.
 
-### ✔ **Servers are in normal state!** ✔  
+### ⚠️ **Servers may be slow due to very high demand!** ⚠️
 
 **Please note that not all builds are available here yet!**  
 This service is provided free of charge by **Shoqapique**. If you want to support him, let him know by clicking the star ⭐️!
