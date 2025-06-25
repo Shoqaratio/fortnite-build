@@ -2,15 +2,14 @@
 
 One of the fastest directories for downloading Fortnite versions/builds (we are trying to be the largest) 💨.
 
-### This page may be out of date. To view all available builds, please visit https://galaxiafn.co.uk to support our project.
+### ⚠️ This page may be out of date. To view all available builds, please visit https://galaxiafn.co.uk to support our project. ⚠️
 
-**Please note that not all builds are available here yet!**  
-This service is provided free of charge by **Shoqapique**. If you want to support him, let him know by clicking the star ⭐️!
+This service is provided free of charge by **Shoqapique**. If you want to support him, let him know by clicking the star ⭐️ and by visiting https://galaxiafn.co.uk !
 
 ---
 
 ### 📝 **Information & Credits:**
-- Files and builds are provided by [notsamiccs](https://github.com/notsamicc/Fortnite-Builds), [Crunnie](https://github.com/Crunnie) and [n6617x's repo](https://github.com/n6617x/Fortnitebuilds).
+- Files and builds are provided by [notsamiccs](https://github.com/notsamicc/Fortnite-Builds), [Crunnie](https://github.com/Crunnie) and [simplyblk](https://github.com/n6617x/Fortnitebuilds).
 - Servers are provided by [Shoqapique](https://github.com/Shoqaratio).
 - If you want to add a build that is not here, let us know on [Discord](https://discord.gg/KsNdAmqYsy)!
 
