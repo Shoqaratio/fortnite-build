@@ -9,7 +9,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 ---
 
 ### 📝 **Information & Credits:**
-- Files and builds are provided by [notsamiccs](https://github.com/notsamicc/Fortnite-Builds), [Crunnie](https://github.com/Crunnie) and [simplyblk](https://github.com/n6617x/Fortnitebuilds).
+- Files and builds are provided by [notsamiccs](https://github.com/notsamicc/Fortnite-Builds), [Crunnie](https://github.com/Crunnie), [simplyblk](https://github.com/n6617x/Fortnitebuilds), [repressoh](https://e-z.bio/repressoh) and [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive).
 - Servers are provided by [Shoqapique](https://github.com/Shoqaratio).
 - If you want to add a build that is not here, let us know on [Discord](https://discord.gg/KsNdAmqYsy)!
 
@@ -97,6 +97,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 
 ---
 
+#### **Season 10 🪐**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 10.40-CL-9380822               | N/A          | N/A                | [Download](https://galaxiafn.co.uk/10.40.zip) |
+
+---
+
 #### **Season 11 🏅**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
@@ -108,6 +115,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 12.41-CL-12905909              | 21-04-20          | UE4.25                | [Download](https://galaxiafn.co.uk/12.41.zip) |
+
+---
+
+#### **Season 14 🤖 (thanks to repressoh)**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 14.60-CL-12905909              | 18-11-20          | UE4.26                | [Download](https://galaxiafn.co.uk/14.60.zip) |
 
 ---
 
@@ -138,6 +152,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 19.40-CL-19215531              | 01-03-22          | UE5.0                | [Download](https://galaxiafn.co.uk/19.40.zip) |
+
+---
+
+#### **Season 20 👻 NEW**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 20.30-CL-19950687              | Not Available          | Not Available                | [Download](https://galaxiafn.co.uk/20.30.zip) |
 
 ---
 
