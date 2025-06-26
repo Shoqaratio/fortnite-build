@@ -52,6 +52,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
 | 4.0-CL-4039451                | 02-05-18          | UE4.20        | [Download](https://galaxiafn.co.uk/4.0.zip) |
+| 4.1-CL-4053532                | 08-05-18	        | UE4.20        | [Download](https://galaxiafn.co.uk/4.1.zip) |
 | 4.2-CL-4072250                | 16-05-18          | UE4.20        | [Download](https://galaxiafn.co.uk/4.2.zip) |
 | 4.5-CL-4159770                | 27-06-18          | UE4.20        | [Download](https://galaxiafn.co.uk/4.5.zip) |
 
@@ -151,6 +152,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 #### **Season 19 ⚽ NEW**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
+| 19.10-CL-18675304              | N/A          | N/A                | [Download](https://galaxiafn.co.uk/19.10.zip) |
 | 19.40-CL-19215531              | 01-03-22          | UE5.0                | [Download](https://galaxiafn.co.uk/19.40.zip) |
 
 ---
@@ -158,7 +160,7 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 #### **Season 20 👻 NEW**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
-| 20.30-CL-19950687              | Not Available          | Not Available                | [Download](https://galaxiafn.co.uk/20.30.zip) |
+| 20.30-CL-19950687              | N/A          | N/A                | [Download](https://galaxiafn.co.uk/20.30.zip) |
 
 ---
 
