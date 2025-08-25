@@ -119,6 +119,13 @@ This service is provided free of charge by **Shoqapique**. If you want to suppor
 
 ---
 
+#### **Season 13 🤩**
+| **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
+|------------------------------|-------------------|-----------------------|-------------------------------------|
+| 13.40-CL-14113327              | N/A          | N/A               | [Download](https://www.dropbox.com/scl/fi/yuxnksjs2wlh3jsrwbe3l/13.40.rar?rlkey=bdic23vaa5z4r1d081cgpqn5m&st=pejhgn43&dl=1) |
+
+---
+
 #### **Season 14 🤖 (thanks to repressoh)**
 | **Build**                    | **Date**          | **Engine Version**     | **Download**                        |
 |------------------------------|-------------------|-----------------------|-------------------------------------|
